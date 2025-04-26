@@ -1,5 +1,4 @@
 [Escolar]
-oi
 [Pessoal]
 lingua pressa
 Eventos
