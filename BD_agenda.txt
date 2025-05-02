@@ -1,6 +1,7 @@
 [Escolar]
 marca entrevista pibid
 terminar slaydes
+terminar roteiro
 [Pessoal]
 lingua pressa
 Eventos
