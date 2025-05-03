@@ -1,6 +1,5 @@
 [Escolar]
 marca entrevista pibid
-terminar roteiro
 soletra o alfabeto ingles
 [Pessoal]
 lingua pressa
